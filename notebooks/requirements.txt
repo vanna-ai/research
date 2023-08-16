@@ -1,0 +1,5 @@
+vanna
+python-dotenv
+google-cloud-bigquery
+db-dtypes
+google-cloud-aiplatform
